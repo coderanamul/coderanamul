@@ -18,7 +18,6 @@ Skills: Python, JavaScript, HTML, CSS, PHP,Data Handling, Google Docs
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderanamul&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/coderanamul)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=coderanamul)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
