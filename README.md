@@ -26,29 +26,26 @@
 </div>
 
 ---
-
 ## <div align="center">💫 About Me</div>
 
-<div align="center" style="display: flex; flex-direction: row-reverse; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
-
-  <!-- Image (top on mobile, right on desktop) -->
-  <div style="flex: 1; min-width: 250px; max-width: 380px; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" style="width: 100%; height: auto;" />
-  </div>
-
-  <!-- Text (bottom on mobile, left on desktop) -->
-  <div style="flex: 2; min-width: 250px;">
-    <p>I'm a passionate full-stack developer with expertise in web application development and a growing interest in data science and machine learning.</p>
-    <ul>
-      <p>🔭 Working on <b>Django and React applications</b></p>
-      <p>🌱 Learning <b>Machine Learning and Data Science</b></p>
-      <p>💡 Enjoy solving complex problems with clean code</p>
-      <p>👯 Open to collaborate on <b>web and data projects</b></p>
-      <p>💬 Ask me about <b>Python, Django, JavaScript, PHP</b></p>
-      <p>⚡ Fun fact: <b>I code better with coffee ☕</b></p>
-    </ul>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+    </td>
+    <td>
+      <p>I'm a passionate full-stack developer with expertise in web application development and a growing interest in data science and machine learning.</p>
+      <ul>
+        <li>🔭 Working on <b>Django and React applications</b></li>
+        <li>🌱 Learning <b>Machine Learning and Data Science</b></li>
+        <li>💡 Enjoy solving complex problems with clean code</li>
+        <li>👯 Open to collaborate on <b>web and data projects</b></li>
+        <li>💬 Ask me about <b>Python, Django, JavaScript, PHP</b></li>
+        <li>⚡ Fun fact: <b>I code better with coffee ☕</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
