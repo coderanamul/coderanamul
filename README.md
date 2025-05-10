@@ -29,10 +29,10 @@
 ## <div align="center">💫 About Me</div>
 
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqY2d6aHZ5Zm5yeHY5amM2a2FubTdrM3l2Zm5xYTBwMTIxajZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding animation" style="margin-left: 20px; padding-right: 20px;"/>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqY2d6aHZ5Zm5yeHY5amM2a2FubTdrM3l2Zm5xYTBwMTIxajZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding animation" style="margin-left: 20px;"/>
 </div>
 
-<div align="justify">
+<div align="justify" style="padding-right: 20px;">
   A self-driven learner exploring the world of Web Development and Python programming. Passionate about building modern, functional web applications and experimenting with data-driven projects.
 
   - 🌱 I'm currently enhancing my **JavaScript & Python** skills  
