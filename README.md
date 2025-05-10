@@ -26,22 +26,26 @@
 </div>
 
 ---
+## <div align="center">👋 About Me</div>
+
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; max-width: 40%; min-width: 200px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
-  </div>
-  <div style="display: inline-block; text-align: left; max-width: 55%; min-width: 200px;">
-    <p>I'm a passionate full-stack developer with expertise in web application development and a growing interest in data science and machine learning.</p>
-    <ul>
-      <li>🔭 Working on <b>Django and React applications</b></li>
-      <li>🌱 Learning <b>Machine Learning and Data Science</b></li>
-      <li>💡 Enjoy solving complex problems with clean code</li>
-      <li>👯 Open to collaborate on <b>web and data projects</b></li>
-      <li>💬 Ask me about <b>Python, Django, JavaScript, PHP</b></li>
-      <li>⚡ Fun fact: <b>I code better with coffee ☕</b></li>
-    </ul>
-  </div>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqY2d6aHZ5Zm5yeHY5amM2a2FubTdrM3l2Zm5xYTBwMTIxajZwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding animation" style="margin-left: 20px;"/>
 </div>
+
+<div align="justify">
+
+A self-driven learner exploring the world of Web Development and Python programming. Passionate about building modern, functional web applications and experimenting with data-driven projects.
+
+- 🌱 I'm currently enhancing my **JavaScript & Python** skills  
+- 💡 I enjoy combining creativity with logic to craft clean, user-friendly experiences  
+- 👨‍💻 All of my projects are available at [coderanamul.com](https://coderanamul.com)  
+- 🚀 Always curious, collaborative, and continuously learning  
+- 💬 Ask me about **HTML, CSS, JavaScript, or getting started in tech**
+
+</div>
+
+<br clear="right"/>
+
 
 ---
 
