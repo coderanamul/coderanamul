@@ -26,20 +26,21 @@
 </div>
 
 ---
-## <div align="center">💫 About Me</div>
-
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" style="max-width: 300px; float: left; margin-right: 20px;" />
-    I'm a passionate full-stack developer with expertise in web application development and a growing interest in data science and machine learning.
-    <br><br>
-    🔭 Working on <b>Django and React applications</b><br>
-    🌱 Learning <b>Machine Learning and Data Science</b><br>
-    💡 Enjoy solving complex problems with clean code<br>
-    👯 Open to collaborate on <b>web and data projects</b><br>
-    💬 Ask me about <b>Python, Django, JavaScript, PHP</b><br>
-    ⚡ Fun fact: <b>I code better with coffee ☕</b>
-  </p>
+  <div style="display: inline-block; vertical-align: top; max-width: 40%; min-width: 200px; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+  </div>
+  <div style="display: inline-block; text-align: left; max-width: 55%; min-width: 200px;">
+    <p>I'm a passionate full-stack developer with expertise in web application development and a growing interest in data science and machine learning.</p>
+    <ul>
+      <li>🔭 Working on <b>Django and React applications</b></li>
+      <li>🌱 Learning <b>Machine Learning and Data Science</b></li>
+      <li>💡 Enjoy solving complex problems with clean code</li>
+      <li>👯 Open to collaborate on <b>web and data projects</b></li>
+      <li>💬 Ask me about <b>Python, Django, JavaScript, PHP</b></li>
+      <li>⚡ Fun fact: <b>I code better with coffee ☕</b></li>
+    </ul>
+  </div>
 </div>
 
 ---
