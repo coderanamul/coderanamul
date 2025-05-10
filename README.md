@@ -22,7 +22,7 @@ A self-driven learner exploring the world of Web Development and Python programm
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/9361/9361195.png" width="48" height="48"/><br/>Data Handling</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/7641/7641727.png" width="48" height="48"/><br/>Teamwork</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/4233/4233830.png" width="48" height="48"/><br/>Communication</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/6282/6282473.png" width="48" height="48"/><br/>Problem Solving</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/7641/7641727.png" width="48" height="48"/><br/>Problem Solving</td>
   </tr>
 </table>
 
