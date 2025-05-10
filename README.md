@@ -137,29 +137,30 @@
 ---
 ## 🔍 Currently Exploring
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="text-align: center; margin: 10px; width: 70px; height: 70px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-    <br>Matplotlib
-  </div>
-  <div style="text-align: center; margin: 10px; width: 70px; height: 70px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn"/>
-    <br>Scikit-Learn
-  </div>
-  <div style="text-align: center; margin: 10px; width: 70px; height: 70px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-    <br>Pandas
-  </div>
-  <div style="text-align: center; margin: 10px; width: 70px; height: 70px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-    <br>NumPy
-  </div>
-  <div style="text-align: center; margin: 10px; width: 70px; height: 70px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
-    <br>GraphQL
-  </div>
-</div>
-
+<table align="center">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+      <br>Matplotlib
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn"/>
+      <br>Scikit-Learn
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+      <br>NumPy
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
+      <br>GraphQL
+    </td>
+  </tr>
+</table>
 
 ---
 
