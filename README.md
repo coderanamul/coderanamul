@@ -97,7 +97,7 @@
 </div>
 
 ---
-
+<!--
 ## <div align="center">🌟 Featured Projects</div>
 
 <div align="center">
@@ -133,7 +133,7 @@
     </a>
   </picture>
 </div>
-
+-->
 ---
 ## 🔍 Currently Exploring
 
