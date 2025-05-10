@@ -140,30 +140,29 @@
 <div align="center">
   <table>
     <tr>
-      <td style="text-align: center; margin: 10px;">
+      <td style="text-align: center; width: 70px; height: 70px; padding: 10px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
         <br>Matplotlib
       </td>
-      <td style="text-align: center; margin: 10px;">
+      <td style="text-align: center; width: 70px; height: 70px; padding: 10px; border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn"/>
         <br>Scikit-Learn
       </td>
-      <td style="text-align: center; margin: 10px;">
+      <td style="text-align: center; width: 70px; height: 70px; padding: 10px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
         <br>Pandas
       </td>
-      <td style="text-align: center; margin: 10px;">
+      <td style="text-align: center; width: 70px; height: 70px; padding: 10px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
         <br>NumPy
       </td>
-      <td style="text-align: center; margin: 10px;">
+      <td style="text-align: center; width: 70px; height: 70px; padding: 10px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
         <br>GraphQL
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
