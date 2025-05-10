@@ -91,7 +91,7 @@
   <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img style="max-width: 100%; width: 100%; max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=coderanamul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img style="max-width: 100%; width: 100%; max-width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderanamul&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <!--  <img style="max-width: 100%; width: 100%; max-width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderanamul&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" /> -->
   </div>
 </div>
 </div>
